@@ -9,7 +9,7 @@ const Cards = () => {
   console.log("photos2: ", photos);
 
   return (
-    <Container>
+    <Container bg="dark" variant="dark">
       <Grid
         container
         spacing={{ xs: 2, md: 3 }}

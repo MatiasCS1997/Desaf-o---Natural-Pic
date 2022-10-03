@@ -1,0 +1,18 @@
+.navbar {
+  color: white;
+  display: flex;
+  justify-content: center;
+
+  background-color: #40cfff;
+}
+
+.button {
+  background-color: #006691;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  border-color: white;
+}
+
+.cards {
+  background-color: ;
+}

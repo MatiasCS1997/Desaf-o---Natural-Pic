@@ -4,9 +4,11 @@ import Cards from "./Cards";
 const Home = () => {
   return (
     <>
-      <Cards />
+      <div className="cards">
+        <Cards />
+      </div>
     </>
-  )
+  );
 };
 
 export default Home;
